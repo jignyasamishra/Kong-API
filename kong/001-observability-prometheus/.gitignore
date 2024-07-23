@@ -1,0 +1,5 @@
+03-install-kong/certs/*
+03-install-kong/03-values.yaml
+05-scrape-metrics/05-values.yaml
+06-grafana-visualization/06-values.yaml
+07-alerting/07-values.yaml
